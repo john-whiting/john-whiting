@@ -4,15 +4,16 @@
 
 I am John Whiting, a Bachelor of Computer Science major.
 
-Currently, I'm working as a Coop, but in my free time, I like to spend time on learning new langauges and new computer science methodologies.
+Currently, I'm working as a Coop, but in my free time, I like to spend time learning new languages and new computer science methodologies.
 
-Some of the langauges that I am currently learning/looking to learn are Go, C, Julia, and Dart.
+Some of the languages that I am currently learning/looking to learn are Go, Rust, and Dart.
 
 ## My Experience
 
-Here is a full list of the programming langauges/tools that I've used and learned:
+Here is a full list of the programming languages/tools that I've used and learned:
 
 - Python
+- C
 - C++
 - C#
 - Java
@@ -33,7 +34,7 @@ Here is a full list of the programming langauges/tools that I've used and learne
 
 ## Contact Me
 
-You can reach me by emailing me at either john@jwhiting.dev.
+Feel free to reach me by emailing me at john@jwhiting.dev.
 
 <!--
 **john-whiting/john-whiting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
