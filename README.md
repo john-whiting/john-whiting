@@ -4,27 +4,19 @@
 
 I am John Whiting, a Bachelor of Computer Science major.
 
-Currently, I'm working as a Coop, but in my free time, I like to spend time learning new languages and new computer science methodologies.
+Currently, I'm working as a Coop, but I like learning new languages and new computer science technologies in my free time.
 
-Some of the languages that I am currently learning/looking to learn are Go, Rust, and Dart.
+Some languages I am currently learning/looking to learn are Go, Elixir, and Dart.
 
 ## My Experience
 
 Here is a full list of the programming languages/tools that I've used and learned:
 
-- Python
-- C
-- C++
-- C#
-- Java
-- Ruby
-- TypeScript/JavaScript
-- HTML/CSS
-- SQL
-- Matlab
-- Haskell
-- Prolog
-- PHP
+- Low-Level Languages: Rust, C, C++
+- High-Level Languages: Python, Java, C#, Ruby
+- Web Languages: TypeScript/JavaScript, HTML, CSS, PHP
+- Databases: MySQL/MariaDB, PostgreSQL, MongoDB, Redis
+- Clouds/Containerization Tools: AWS, Azure, Kubernetes, Docker
 
 ## Other Fun Items
   
@@ -34,7 +26,7 @@ Here is a full list of the programming languages/tools that I've used and learne
 
 ## Contact Me
 
-Feel free to reach me by emailing me at john@jwhiting.dev.
+Feel free to email me at [john@jwhiting.dev](mailto:john@jwhiting.dev).
 
 <!--
 **john-whiting/john-whiting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
