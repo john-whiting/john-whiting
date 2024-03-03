@@ -22,7 +22,7 @@ Here is a full list of the programming languages/tools that I've used and learne
   
 [![John Whiting's GitHub Stats](https://github-readme-stats.vercel.app/api?username=john-whiting&hide=stars&rank_icon=github&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=john-whiting&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=john-whiting&theme=radical&layout=compact&exclude_repo=type-systems-knowledge-base)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Me
 
